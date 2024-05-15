@@ -1,2 +1,2 @@
 # compariRO-crawler
-This script takes the prices from the biggest price comparison portal in Romania
+This script takes the shops from the biggest price comparison portal in Romania
